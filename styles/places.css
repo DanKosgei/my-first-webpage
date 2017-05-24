@@ -1,0 +1,30 @@
+h1 {
+  font-size: 40px;
+
+}
+
+h2 {
+  font-size: 30px;
+
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: lightblue;
+}
+
+img1 {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+}
+
+image2 {
+  display: block;
+  width: 50%;
+  height: auto;
+}
